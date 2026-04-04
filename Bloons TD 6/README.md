@@ -8,5 +8,5 @@ Bloons Tower Defense 6
 
 # How to use:
 
-Start game then run:  
+Start game then run:
 ```frida-inject -n BloonsTD6.exe -s agent.js```
